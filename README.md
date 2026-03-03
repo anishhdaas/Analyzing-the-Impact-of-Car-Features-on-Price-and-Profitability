@@ -1,0 +1,2 @@
+# Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability
+Analyzed automotive dataset to optimize pricing &amp; product strategy by examining relationships between vehicle features, market segments, &amp; demand. Applied EDA, regression, &amp; segmentation to identify high-profit categories and feature impact, enabling data-driven decisions to maximize profitability while aligning with evolving consumer preferences.
